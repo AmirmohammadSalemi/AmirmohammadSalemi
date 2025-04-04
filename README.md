@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a very ambitious computer scientist/engineer who has the ability to travel between the realms of science, mathematics and engineering to find the most efficient solutions to problems in the industry
+I am a very ambitious computer scientist/engineer who has the ability to travel between the realms of science, mathematics and engineering to find the most efficient solutions to problems in the industry.
 
 
 # 💻 Tech Stack:
